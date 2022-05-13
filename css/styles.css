@@ -176,8 +176,8 @@ Stripe Styles
 .hero::before {
   content: "";
   position: absolute;
-  width: 100%;
-  height: 65%;
+  width: 100vw;
+  height: 80vh;
   top: 0;
   left: 0;
 
